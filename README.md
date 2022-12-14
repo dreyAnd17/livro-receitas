@@ -4,3 +4,4 @@
  - Bolo de Churros
  - Macarrão 4 Queijos
  - Batata recheada 
+ - Feijoada
