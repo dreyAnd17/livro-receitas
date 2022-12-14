@@ -5,3 +5,5 @@
  - Macarrão 4 Queijos
  - Batata recheada 
  - Feijoada
+ - Sorvete de Morango
+ - Strogonoff
